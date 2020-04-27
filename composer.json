@@ -1,0 +1,14 @@
+{
+  "name": "kanopi/jquery-menu-anchor ",
+  "type": "drupal-library",
+  "description": "jQuery plugin to create menu anchor as navigation on the page",
+  "author": "Maas Dianto <maas.dianto@gmail.com>",
+  "keywords": ["jQuery"],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/kanopi/jquery-menu-anchor",
+  "support": {
+    "issues": "https://github.com/kanopi/jquery-menu-anchor/issues",
+    "source": "https://github.com/kanopi/jquery-menu-anchor"
+  },
+  "require": { }
+}
